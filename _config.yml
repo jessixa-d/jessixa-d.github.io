@@ -1,2 +1,3 @@
 name: Jessica Davis
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
